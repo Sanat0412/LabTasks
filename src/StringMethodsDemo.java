@@ -9,6 +9,9 @@ output like: H, e, l, l, o, , W, o, r, l, d
 
 task 3: Print all the character of given string in the below format using a method called
 void display (String str)
+
+
+hello world
  */
 public class StringMethodsDemo {
     public static void main(String[] args) {
